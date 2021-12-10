@@ -1,0 +1,1 @@
+read the [installation instructions](installation.md) on how to download and run the project.
